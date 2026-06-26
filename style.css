@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial;
+}
+
+
+body{
+    padding:30px;
+    background:#f2f2f2;
+}
+
+
+h1{
+    text-align:center;
+    margin-bottom:30px;
+}
+
+
+.filters{
+    display:flex;
+    justify-content:center;
+    gap:15px;
+    margin-bottom:30px;
+}
+
+
+button{
+    padding:10px 20px;
+    border:none;
+    cursor:pointer;
+    background:black;
+    color:white;
+    border-radius:5px;
+}
+
+
+button:hover{
+    opacity:.7;
+}
+
+
+
+.products{
+
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+    gap:20px;
+
+}
+
+
+.card{
+
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    text-align:center;
+
+}
+
+
+.card h3{
+    margin-bottom:10px;
+}
+
+
+.category{
+    color:gray;
+}
