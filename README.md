@@ -24,8 +24,8 @@ live link :  https://abhijith-e0.github.io/Product-filter/
 
 ## Screenshots
 
-![product filter](./images./screenshot1.png)
+![product filter](./images/screenshot1.png)
 
-![product filter](./images./screenshot2.png)
+![product filter](./images/screenshot2.png)
 
 ## Project Structure
