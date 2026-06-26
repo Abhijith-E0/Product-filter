@@ -29,3 +29,13 @@ live link :  https://abhijith-e0.github.io/Product-filter/
 ![product filter](./images/screenshot2.png)
 
 ## Project Structure
+```bash
+Product-filter/
+├── images/
+│   └── screenshot1.png
+│   └── screenshot2.png
+├── index.html
+├── style.css
+├── app.js
+└── README.md
+```
